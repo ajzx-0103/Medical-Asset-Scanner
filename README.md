@@ -1,5 +1,4 @@
-<img width="1254" height="738" alt="屏幕截图 2026-05-13 110538" src="https://github.com/user-attachments/assets/0ea293c8-7844-4302-9df9-d8169f818fa3" />
-<img width="1098" height="563" alt="屏幕截图 2026-05-13 110507" src="https://github.com/user-attachments/assets/d5805ed9-a700-4447-8330-546c9e8fede8" />
+
 # 医疗资产安全扫描器 (Medical Asset Scanner) 🏥🛡️
 
 本项目是医疗网络态势感知系统的重要组成部分，专注于医疗内网资产的自动化发现与风险评估。
@@ -19,3 +18,5 @@
 2. **运行扫描**：
    ```bash
    python xiangmuone.py
+<img width="1254" height="738" alt="屏幕截图 2026-05-13 110538" src="https://github.com/user-attachments/assets/0ea293c8-7844-4302-9df9-d8169f818fa3" />
+<img width="1098" height="563" alt="屏幕截图 2026-05-13 110507" src="https://github.com/user-attachments/assets/d5805ed9-a700-4447-8330-546c9e8fede8" />
